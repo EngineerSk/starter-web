@@ -2,8 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> Engineer SK <twitter>
+	Engineer SK 
+	eskayoriade@gmail.com
+	software developer
 
 # THANKS
 
