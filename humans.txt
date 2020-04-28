@@ -6,7 +6,8 @@ Hi, I am modifying the file before rebase
 # TEAM
 	Engineer SK 
 	eskayoriade@gmail.com
-	software developer
+	software developer, DevOps Engineer
+	IT Organization
 
 # THANKS
 
