@@ -14,4 +14,8 @@ Adding Git Rebase Lectures and Git Advanced Course. We have done so much work to
 ## Contributions
 Fork the repo and raise a pull request for review
 
+## Comparisons
+Adding Git Comparison lectures
+Adding new lectures on stash
+
 Sample website with plenty of files for demos
