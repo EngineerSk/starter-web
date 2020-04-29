@@ -22,3 +22,4 @@ Adding important note on git stash
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
     Docker, Java Programming
+    AWS Solutions Architect Developer
